@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: "https://tangent24-hash.github.io/portfolio",
+  homepage: "https://srsohan.com",
   title: "Sohan.",
 };
 
@@ -10,10 +10,10 @@ const about = {
   role: "SOFTWARE DEVELOPER",
   description:
     "I’m a professional Software developer with full stack development skills. Currently focused on building web applications for better digital experiences.",
-  resume: "https://example.com",
+  resume: "https://drive.google.com/file/d/1cRYVlu0igRIPnc_D6dDeIfzf3W1t0Uk3/view?usp=sharing",
   social: {
-    linkedin: "https://linkedin.com",
-    github: "https://github.com",
+    linkedin: "https://www.linkedin.com/in/sohanur1/",
+    github: "https://github.com/tangent24-hash",
   },
 };
 
@@ -21,28 +21,27 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: "Project 1",
-    description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["SASS", "TypeScript", "React"],
-    sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+    name: "Curious Bangladesh News Portal",
+    description: "Simple material designed News/Magazine website.",
+    stack: ["Django", "JavaScript", "React", "Material UI"],
+    sourceCode: "https://github.com/tangent24-hash",
+    livePreview: "https://curiousbd.com",
   },
   {
-    name: "Project 2",
+    name: "Tutor Sohan",
     description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["SASS", "TypeScript", "React"],
-    sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+      "Demo e-commerce website with add-to-cart and random selection facilities.",
+    stack: ["Firebase", "JavaScript", "React", "Bootstrap"],
+    sourceCode: "https://github.com/tangent24-hash/tutor-sohan",
+    livePreview: "https://tutor-sohan.web.app/",
   },
   {
-    name: "Project 3",
+    name: "Fresh Grocery Store",
     description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
+      "Demo ecommerce website with add to cart and random selection facilities.",
     stack: ["SASS", "TypeScript", "React"],
-    sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+    sourceCode: "https://github.com/tangent24-hash/fresh-grocery-store",
+    livePreview: "https://grocery-store-01.netlify.app/",
   },
 ];
 

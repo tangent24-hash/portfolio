@@ -3,7 +3,7 @@ import './Footer.css'
 const Footer = () => (
   <footer className='footer'>
     <a
-      href='https://github.com/tangent24-hash/portfolio'
+      href='https://srsohan.com'
       className='link footer__link'
     >
       Developed by Sohanur Rahman
