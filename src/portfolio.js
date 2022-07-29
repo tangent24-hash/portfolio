@@ -54,7 +54,6 @@ const skills = [
   "React",
   "Material UI",
   "Git",
-  "CI/CD",
   "HTML",
   "CSS",
 ];
